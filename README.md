@@ -5,7 +5,7 @@ Un proiect de Realitate Virtuală (VR) realizat în Unity folosind OpenXR și XR
 Când un popic se înclină peste un anumit unghi, scriptul îl marchează ca fiind căzut, îl colorează în verde, actualizează scorul afișat pe peretele din spate și îl face să dispară după scurt timp. Jocul poate fi testat și fără headset, folosind XR Device Simulator.
 
 ## Video Demo
-In work
+https://github.com/user-attachments/assets/af9be4d1-1eaa-4b1b-a0ab-149c06ec5eb7
 
 ## Tehnologii folosite
 * **Unity 3D** (versiunea 6.3 LTS)
