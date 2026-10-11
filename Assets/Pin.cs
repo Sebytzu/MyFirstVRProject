@@ -3,7 +3,7 @@ using UnityEngine;
 public class Pin : MonoBehaviour
 {
     public Score score;
-    public float stergere = 1.5f;
+    public float delTime = 1.5f;
 
     public bool isDown { get; private set; }
     Renderer rend;
@@ -16,8 +16,8 @@ public class Pin : MonoBehaviour
         {
             isDown = true;
             rend.material.color = Color.green;
-            if (score != null) score.PinCade();
-            Invoke(nameof(Hide), stergere);
+            if (score != null) score.PinFall();
+            Invoke(nameof(Hide), delTime);
         }
     }
 

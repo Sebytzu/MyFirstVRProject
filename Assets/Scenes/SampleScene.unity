@@ -1020,7 +1020,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &404553600
 GameObject:
   m_ObjectHideFlags: 0
@@ -1618,7 +1618,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &709281135
 GameObject:
   m_ObjectHideFlags: 0
@@ -1927,7 +1927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2227,7 +2227,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_ThrowVelocityScale: 2
+  m_ThrowVelocityScale: 1.5
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
@@ -2248,7 +2248,7 @@ Rigidbody:
   m_GameObject: {fileID: 878084587}
   serializedVersion: 5
   m_Mass: 4
-  m_LinearDamping: 0
+  m_LinearDamping: 0.05
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
@@ -3194,7 +3194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &1197134283
 GameObject:
   m_ObjectHideFlags: 0
@@ -4011,7 +4011,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_ThrowVelocityScale: 2
+  m_ThrowVelocityScale: 1.5
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
@@ -4032,7 +4032,7 @@ Rigidbody:
   m_GameObject: {fileID: 1393755477}
   serializedVersion: 5
   m_Mass: 4
-  m_LinearDamping: 0
+  m_LinearDamping: 0.05
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
@@ -4301,7 +4301,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &1528801184
 GameObject:
   m_ObjectHideFlags: 0
@@ -4799,7 +4799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &1725527674
 GameObject:
   m_ObjectHideFlags: 0
@@ -5274,7 +5274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &1958296623
 GameObject:
   m_ObjectHideFlags: 0
@@ -5433,7 +5433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &1958523718
 GameObject:
   m_ObjectHideFlags: 0
@@ -5592,7 +5592,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &2000859112
 GameObject:
   m_ObjectHideFlags: 0
@@ -10587,7 +10587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Pin
   score: {fileID: 1215001958}
-  stergere: 1.5
+  delTime: 1.5
 --- !u!1 &2104049339 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1767192433, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
