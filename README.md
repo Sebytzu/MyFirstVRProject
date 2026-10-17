@@ -6,6 +6,8 @@ Când un popic se înclină peste un anumit unghi, scriptul îl marchează ca fi
 
 ## Video Demo
 https://github.com/user-attachments/assets/af9be4d1-1eaa-4b1b-a0ab-149c06ec5eb7
+
+
 https://github.com/user-attachments/assets/4dbe20aa-967a-4f60-af0d-c05bee4177e7
 
 ## Tehnologii folosite
